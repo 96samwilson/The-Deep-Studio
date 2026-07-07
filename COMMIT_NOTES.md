@@ -1,14 +1,13 @@
-# Commit 0005
-
-Adds the first major manuscript section of Chapter 1.
+# Commit 0006
 
 ## Added
 
-- The Producer Listens First
-- Hearing Beyond Equipment
-- Listening Before Solving
-- Studio Reflection
+- Continuous Transformation
+- Static vs Living Music
+- Four Timescales of Movement
+- Invisible Automation
+- Studio Mission
 
 ## Next
 
-Commit 0006 — Continuous Transformation
+Commit 0007 — The Four Dimensions of Listening

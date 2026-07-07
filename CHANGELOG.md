@@ -1,11 +1,8 @@
 # Changelog
 
-## v0.10.0
+## v0.11.0
 
-- Add Chapter 1 SVG diagrams.
-- Update diagram catalogue.
-- Add attention cycle diagram.
-- Add four timescales of movement diagram.
-- Add four dimensions of listening diagram.
-- Add decision loop diagram.
-- Add listener focus diagram.
+- Add Chapter 1 summary and quick reference.
+- Add Chapter 1 glossary.
+- Add Chapter 1 diagram placement notes.
+- Add Chapter 1 assembly plan.

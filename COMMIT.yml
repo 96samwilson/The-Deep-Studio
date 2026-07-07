@@ -1,12 +1,10 @@
-commit: "0009"
-title: "Add Chapter 1 diagrams"
-version: "v0.10.0"
+commit: "0010"
+title: "Add Chapter 1 reference and assembly notes"
+version: "v0.11.0"
 files:
-  - diagrams/svg/part-01-the-listener/attention-cycle.svg
-  - diagrams/svg/part-01-the-listener/four-timescales-of-movement.svg
-  - diagrams/svg/part-01-the-listener/four-dimensions-of-listening.svg
-  - diagrams/svg/part-01-the-listener/decision-loop.svg
-  - diagrams/svg/part-01-the-listener/listener-focus.svg
-  - DIAGRAM_CATALOGUE.md
+  - book/part-01-the-listener/chapter-01-summary-and-reference.md
+  - book/part-01-the-listener/chapter-01-diagram-placement.md
+  - book/part-01-the-listener/chapter-01-assembly.md
+  - book/part-01-the-listener/chapter-01-glossary.md
   - CHANGELOG.md
-next_commit: "0010"
+next_commit: "0011"

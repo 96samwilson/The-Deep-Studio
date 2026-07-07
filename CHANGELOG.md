@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.2.1
+## v0.2.2
 
-- Begin second-edition rewrite of Chapter 1.
-- Strengthen narrative voice.
-- Introduce restraint as a central production principle.
+- Add Chapter 1 listening case studies.
+- Introduce reusable case study format.
+- Expand second-edition manuscript.

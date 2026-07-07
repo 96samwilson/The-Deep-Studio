@@ -1,7 +1,7 @@
-# Commit 0021
+# Commit 0022
 
-This commit begins the second editorial pass of Chapter 1.
+Adds the first narrative case studies to Chapter 1.
 
-The emphasis shifts from proving the concepts to presenting them with a stronger narrative voice and a more cohesive reading experience.
+These examples shift the manuscript away from describing equipment and toward analysing perception, restraint and transformation.
 
-Next: Commit 0022 — Expand Chapter 1 with real-world production case studies.
+Next: Commit 0023 — Deep listening framework and analytical worksheets.

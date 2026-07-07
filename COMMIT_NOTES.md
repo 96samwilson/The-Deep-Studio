@@ -1,11 +1,5 @@
-# Commit 0025
+# Commit 0026
 
-Introduces a perception-first model for understanding musical time.
+Introduces Attention Mapping as a practical analysis tool linking all previous listening frameworks.
 
-Adds:
-- Time as Perception manuscript
-- Time Mapping worksheet
-- Editorial framework for future chapters
-
-Next:
-Commit 0026 — Attention Mapping and analytical worksheets.
+Next: Commit 0027 — Complete Chapter 1 redesign.

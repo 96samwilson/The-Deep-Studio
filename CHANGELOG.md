@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.2.5
+## v0.2.6
 
-- Add Time as Perception.
-- Add Time Mapping worksheet.
-- Introduce five-layer time model.
+- Add Attention Mapping framework.
+- Add reusable Attention Map worksheet.
+- Add prototype Attention Map diagram.

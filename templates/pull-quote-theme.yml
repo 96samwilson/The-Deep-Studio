@@ -1,0 +1,7 @@
+pull_quote:
+  background: "#F7F5F1"
+  border: "#444444"
+  font: Helvetica-Oblique
+  font_size: 14
+  max_width_mm: 140
+  align: centre

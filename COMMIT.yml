@@ -1,4 +1,4 @@
-commit: "0039"
-title: "Integrate publishing components into build pipeline"
-version: "0.4.0-beta2"
-next_commit: "0040"
+commit: "0040"
+title: "Publication-quality export v0.4.0"
+version: "0.4.0"
+next_commit: "0041"

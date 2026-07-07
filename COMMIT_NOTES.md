@@ -1,29 +1,9 @@
-# Commit 0039 — Build Pipeline Integration
+# Commit 0040
 
-## Commit message
+Commit message:
 
-```text
-0039: Integrate publishing components into build pipeline
-```
+0040: Publication-quality export v0.4.0
 
-## Files Added or Updated
+This commit closes the first Publishing Engine milestone.
 
-- `build.py`
-- `book/part-01-the-listener/chapter-01-build-test.md`
-- `docs/BUILD_PIPELINE_INTEGRATION.md`
-- `CHANGELOG.md`
-
-## Purpose
-
-This commit connects previously scaffolded publishing components directly into the build pipeline.
-
-The generated PDF should now show visible improvements:
-
-- Markdown tables render as styled tables.
-- Callout blocks render as styled panels.
-- Pull quotes render as highlighted quote panels.
-- Typography is more consistent.
-
-## Next Commit
-
-Commit 0040 — Publication-quality export v0.4.0.
+The next milestone (0041+) returns to manuscript development while continuing to improve PDF output with true SVG rendering and advanced layout.

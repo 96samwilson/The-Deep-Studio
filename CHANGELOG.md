@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.3.7
+## v0.3.8
 
-- Add chapter opener renderer.
-- Add chapter opener templates.
-- Add documentation and example opener.
+- Add central typography module.
+- Add typography theme configuration.
+- Document typography standards.

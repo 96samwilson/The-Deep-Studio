@@ -1,0 +1,19 @@
+typography:
+  body:
+    font: Helvetica
+    size: 10.5
+    leading: 16
+  heading_1:
+    font: Helvetica-Bold
+    size: 20
+  heading_2:
+    font: Helvetica-Bold
+    size: 15
+  title:
+    font: Helvetica-Bold
+    size: 28
+
+layout:
+  margins_mm: [22,22,20,20]
+  paragraph_spacing_pt: 7
+  widow_control: true

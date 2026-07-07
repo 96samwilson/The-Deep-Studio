@@ -1,6 +1,6 @@
-# Commit 0035
+# Commit 0036
 
-Introduces the reusable chapter opener system.
+Introduces a unified typography system for the publishing engine.
 
 Next:
-Commit 0036 — Typography refinement.
+Commit 0037 — Image positioning and page composition.

@@ -1,8 +1,6 @@
-# Commit 0031
+# Commit 0032
 
-Begins the SVG rendering engine.
-
-This commit prepares automatic figure loading from Markdown and centralised figure styling.
+Adds automatic figure numbering architecture.
 
 Next:
-Commit 0032 — Automatic figure numbering and captions.
+Commit 0033 — Styled callout boxes and exercise panels.

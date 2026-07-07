@@ -1,0 +1,8 @@
+caption:
+  prefix: Figure
+  font: Helvetica
+  size: 9
+  italic: true
+  align: centre
+  spacing_before_mm: 2
+  spacing_after_mm: 6

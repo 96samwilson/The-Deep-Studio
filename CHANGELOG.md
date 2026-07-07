@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.3.3
+## v0.3.4
 
-- Add SVG rendering scaffold.
-- Add figure theme configuration.
-- Document figure markup syntax.
+- Add figure numbering scaffold.
+- Add caption theme.
+- Add List of Figures template.

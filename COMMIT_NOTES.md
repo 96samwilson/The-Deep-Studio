@@ -1,17 +1,17 @@
-# Commit 0007
+# Commit 0008
 
 ## Added
 
-- Weight
-- Distance
-- Movement
-- Focus
-- Studio Observation exercise
+- Listening Exercise 1
+- Listening Exercise 2
+- Studio Mission 1
+- Studio Mission 2
+- Reflection questions
 
 ## Purpose
 
-Establish the core vocabulary that will be used throughout the remainder of the handbook.
+Translate the ideas of Chapter 1 into repeatable studio practice.
 
 ## Next
 
-Commit 0008 — Listening Exercises & Studio Missions
+Commit 0009 — Chapter 1 diagrams

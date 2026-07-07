@@ -1,11 +1,4 @@
-commit: "0015"
-title: "Improve publishing pipeline"
-version: "v0.16.0"
-files:
-  - book/book.yml
-  - build.py
-  - build.ps1
-  - README_BUILD.md
-  - requirements.txt
-  - CHANGELOG.md
-next_commit: "0016"
+commit: "0016"
+title: "SVG integration scaffold"
+version: "v0.17.0"
+next_commit: "0017"

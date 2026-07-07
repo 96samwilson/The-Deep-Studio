@@ -1,9 +1,8 @@
 # Changelog
 
-## v0.16.0
+## v0.17.0
 
-- Add book build manifest.
-- Improve build.py with chapter and full-book build modes.
-- Add basic Markdown heading, quote, bullet and code handling.
-- Update PowerShell build wrapper.
-- Update build instructions.
+- Add SVG registry.
+- Add diagram integration scaffold.
+- Document figure placeholders.
+- Update build wrapper to prepare figures.

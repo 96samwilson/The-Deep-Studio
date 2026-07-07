@@ -1,33 +1,13 @@
-# Commit 0015 — Improved Publishing Pipeline
+# Commit 0016
 
-## Commit message
+Introduces the first stage of SVG integration.
 
-```text
-0015: Improve publishing pipeline
-```
+This commit does not yet render SVGs into PDFs. Instead, it creates the
+infrastructure needed for:
 
-## Files Added or Updated
+- figure identifiers
+- central SVG registry
+- future automatic figure numbering
+- build pipeline hooks
 
-- `book/book.yml`
-- `build.py`
-- `build.ps1`
-- `README_BUILD.md`
-- `requirements.txt`
-- `CHANGELOG.md`
-
-## Purpose
-
-This commit replaces the minimal PDF exporter with a more structured publishing pipeline.
-
-The new build system introduces:
-
-- a book manifest;
-- ordered chapter assembly;
-- full-book build mode;
-- single-chapter build mode;
-- basic Markdown formatting support;
-- clearer build instructions.
-
-## Next Commit
-
-Commit 0016 — Integrate SVG diagrams into the build system.
+Next: Commit 0017 — Automatic table of contents and page references.

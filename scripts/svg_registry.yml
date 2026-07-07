@@ -1,0 +1,7 @@
+figures:
+  attention-cycle:
+    file: diagrams/svg/part-01-the-listener/attention-cycle.svg
+  four-dimensions:
+    file: diagrams/svg/part-01-the-listener/four-dimensions-of-listening.svg
+  deep-studio-compass:
+    file: diagrams/svg/frameworks/deep-studio-compass.svg

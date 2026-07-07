@@ -3,18 +3,11 @@ param(
     [int]$Chapter
 )
 
-Write-Host "Building The Deep Studio..."
+Write-Host "Preparing SVG assets..."
+python scripts/build_diagrams.py
 
 if ($Chapter) {
     python build.py --chapter $Chapter
-}
-else {
+} else {
     python build.py --all
 }
-
-if ($LASTEXITCODE -ne 0) {
-    Write-Error "Build failed."
-    exit $LASTEXITCODE
-}
-
-Write-Host "Done."

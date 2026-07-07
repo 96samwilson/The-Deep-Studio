@@ -1,0 +1,21 @@
+callouts:
+  key-idea:
+    title: Key Idea
+    background: "#F1E8D6"
+    border: "#2B2B2B"
+  studio-mission:
+    title: Studio Mission
+    background: "#E8EEE6"
+    border: "#2B2B2B"
+  listening-exercise:
+    title: Listening Exercise
+    background: "#E8EDF4"
+    border: "#2B2B2B"
+  deep-dive:
+    title: Deep Dive
+    background: "#EFEFEF"
+    border: "#2B2B2B"
+  avoid:
+    title: Avoid
+    background: "#F3E3DF"
+    border: "#2B2B2B"

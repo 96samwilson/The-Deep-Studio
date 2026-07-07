@@ -1,4 +1,4 @@
-commit: "0030"
-title: "Professional table renderer"
-version: "0.3.2"
-next_commit: "0031"
+commit: "0031"
+title: "SVG rendering engine"
+version: "0.3.3"
+next_commit: "0032"

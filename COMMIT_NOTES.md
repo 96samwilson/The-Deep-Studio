@@ -1,9 +1,8 @@
-# Commit 0030
+# Commit 0031
 
-Introduces the first component of the Publishing Engine.
+Begins the SVG rendering engine.
 
-Focus:
-- Replace plain-text table output with styled publication-quality tables.
+This commit prepares automatic figure loading from Markdown and centralised figure styling.
 
 Next:
-Commit 0031 — SVG rendering engine.
+Commit 0032 — Automatic figure numbering and captions.

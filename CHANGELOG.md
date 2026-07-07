@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.3.2
+## v0.3.3
 
-- Add professional table rendering scaffold.
-- Add table theme configuration.
-- Begin Publishing Engine roadmap.
+- Add SVG rendering scaffold.
+- Add figure theme configuration.
+- Document figure markup syntax.

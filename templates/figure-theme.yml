@@ -1,0 +1,7 @@
+figure:
+  alignment: centre
+  max_width_mm: 150
+  caption_font: Helvetica
+  caption_size: 9
+  spacing_before_mm: 4
+  spacing_after_mm: 6

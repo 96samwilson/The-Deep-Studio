@@ -1,6 +1,7 @@
 # Changelog
 
-## v0.2.4
+## v0.2.5
 
-- Add Frequency as Perception section.
-- Add frequency perception journal.
+- Add Time as Perception.
+- Add Time Mapping worksheet.
+- Introduce five-layer time model.

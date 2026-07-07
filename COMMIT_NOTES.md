@@ -1,5 +1,11 @@
-# Commit 0024
+# Commit 0025
 
-Introduces frequency as a perceptual concept rather than a purely technical one.
+Introduces a perception-first model for understanding musical time.
 
-Next: Commit 0025 — Time as Perception.
+Adds:
+- Time as Perception manuscript
+- Time Mapping worksheet
+- Editorial framework for future chapters
+
+Next:
+Commit 0026 — Attention Mapping and analytical worksheets.

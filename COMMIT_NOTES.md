@@ -1,6 +1,6 @@
-# Commit 0034
+# Commit 0035
 
-Adds reusable pull quotes to the publishing engine.
+Introduces the reusable chapter opener system.
 
 Next:
-Commit 0035 — Chapter opener design.
+Commit 0036 — Typography refinement.

@@ -1,0 +1,8 @@
+chapter_opener:
+  full_page: true
+  show_part: true
+  show_quote: true
+  show_reading_time: true
+  show_summary: true
+  title_font: Helvetica-Bold
+  subtitle_font: Helvetica

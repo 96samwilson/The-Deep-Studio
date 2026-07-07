@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.3.6
+## v0.3.7
 
-- Add pull quote renderer.
-- Add pull quote theme.
-- Add Markdown syntax documentation.
+- Add chapter opener renderer.
+- Add chapter opener templates.
+- Add documentation and example opener.

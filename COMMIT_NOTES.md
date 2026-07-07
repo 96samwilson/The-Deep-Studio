@@ -1,13 +1,17 @@
-# Commit 0006
+# Commit 0007
 
 ## Added
 
-- Continuous Transformation
-- Static vs Living Music
-- Four Timescales of Movement
-- Invisible Automation
-- Studio Mission
+- Weight
+- Distance
+- Movement
+- Focus
+- Studio Observation exercise
+
+## Purpose
+
+Establish the core vocabulary that will be used throughout the remainder of the handbook.
 
 ## Next
 
-Commit 0007 — The Four Dimensions of Listening
+Commit 0008 — Listening Exercises & Studio Missions

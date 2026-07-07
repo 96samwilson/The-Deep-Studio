@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.7.0
+## v0.8.0
 
-- Expand Chapter 1 with Continuous Transformation.
-- Introduce four timescales of movement.
-- Add first Studio Mission.
+- Add the Four Dimensions of Listening.
+- Introduce the core vocabulary of the handbook.
+- Add Studio Observation exercise.

@@ -1,8 +1,8 @@
 # Changelog
 
-## v0.17.0
+## v0.18.0
 
-- Add SVG registry.
-- Add diagram integration scaffold.
-- Document figure placeholders.
-- Update build wrapper to prepare figures.
+- Add Table of Contents generator scaffold.
+- Add List of Figures template.
+- Add book metadata configuration.
+- Update publishing workflow.

@@ -1,13 +1,16 @@
-# Commit 0016
+# Commit 0017
 
-Introduces the first stage of SVG integration.
+## Purpose
 
-This commit does not yet render SVGs into PDFs. Instead, it creates the
-infrastructure needed for:
+Prepare the publishing pipeline for automatic front matter generation.
 
-- figure identifiers
-- central SVG registry
-- future automatic figure numbering
-- build pipeline hooks
+### Added
 
-Next: Commit 0017 — Automatic table of contents and page references.
+- TOC generation scaffold
+- List of Figures template
+- Book metadata configuration
+- Updated build wrapper
+
+## Next
+
+Commit 0018 — Automatic typography, running headers and page layout.

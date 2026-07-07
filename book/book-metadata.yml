@@ -1,0 +1,11 @@
+title: The Deep Studio
+subtitle: Designing Hypnotic Electronic Music
+author: Sam Wilson
+edition: First Edition (Draft)
+language: en-GB
+status: Draft
+build:
+  toc: true
+  list_of_figures: true
+  page_numbers: true
+  running_headers: true

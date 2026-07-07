@@ -3,6 +3,9 @@ param(
     [int]$Chapter
 )
 
+Write-Host "Generating book metadata..."
+python scripts/generate_toc.py
+
 Write-Host "Preparing SVG assets..."
 python scripts/build_diagrams.py
 

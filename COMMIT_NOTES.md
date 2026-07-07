@@ -1,6 +1,6 @@
-# Commit 0036
+# Commit 0037
 
-Introduces a unified typography system for the publishing engine.
+Introduces the SVG-to-PDF rendering layer.
 
 Next:
-Commit 0037 — Image positioning and page composition.
+Commit 0038 — Replace Markdown tables with fully rendered publication-quality tables.

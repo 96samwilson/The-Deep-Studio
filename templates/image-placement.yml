@@ -1,0 +1,7 @@
+images:
+  max_width_percent: 85
+  align: centre
+  keep_with_caption: true
+  allow_page_break_before: false
+  spacing_before_mm: 5
+  spacing_after_mm: 8

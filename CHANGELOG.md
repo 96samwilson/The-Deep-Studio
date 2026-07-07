@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.3.8
+## v0.3.9
 
-- Add central typography module.
-- Add typography theme configuration.
-- Document typography standards.
+- Add SVG PDF renderer scaffold.
+- Add image placement configuration.
+- Document SVG rendering workflow.

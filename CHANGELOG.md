@@ -1,8 +1,7 @@
 # Changelog
 
-## v0.5.0
+## v0.6.0
 
-- Begin Chapter 1.
-- Add opening section.
-- Add learning objectives.
-- Establish the central philosophy of the handbook.
+- Expand Chapter 1 with first core manuscript section.
+- Introduce listener-first philosophy.
+- Add first studio reflection exercise.

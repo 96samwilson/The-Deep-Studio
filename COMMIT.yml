@@ -1,6 +1,4 @@
-commit: "0004"
-title: "Chapter 1 — Opening"
-version: "v0.5.0"
-files:
-  - book/part-01-the-listener/chapter-01-listening-before-equipment.md
-next_commit: "0005"
+commit: "0005"
+title: "The Producer Listens First"
+version: "v0.6.0"
+next_commit: "0006"

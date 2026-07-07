@@ -1,17 +1,14 @@
-# Commit 0004
+# Commit 0005
 
-## Title
+Adds the first major manuscript section of Chapter 1.
 
-Chapter 1 — Opening
+## Added
 
-## Files
+- The Producer Listens First
+- Hearing Beyond Equipment
+- Listening Before Solving
+- Studio Reflection
 
-- book/part-01-the-listener/chapter-01-listening-before-equipment.md
+## Next
 
-## Summary
-
-Introduces the first chapter, establishes the purpose of the handbook, and defines the learning objectives for Part I.
-
-## Next Commit
-
-0005 — The Producer Listens First
+Commit 0006 — Continuous Transformation

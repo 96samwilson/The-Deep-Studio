@@ -1,7 +1,6 @@
-# Commit 0022
+# Commit 0023
 
-Adds the first narrative case studies to Chapter 1.
+Introduces the Deep Listening Framework and expands the analytical vocabulary of
+the book from four core dimensions to eight complementary dimensions.
 
-These examples shift the manuscript away from describing equipment and toward analysing perception, restraint and transformation.
-
-Next: Commit 0023 — Deep listening framework and analytical worksheets.
+Next: Commit 0024 — Frequency as Perception.

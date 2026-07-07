@@ -1,10 +1,4 @@
-commit: "0010"
-title: "Add Chapter 1 reference and assembly notes"
-version: "v0.11.0"
-files:
-  - book/part-01-the-listener/chapter-01-summary-and-reference.md
-  - book/part-01-the-listener/chapter-01-diagram-placement.md
-  - book/part-01-the-listener/chapter-01-assembly.md
-  - book/part-01-the-listener/chapter-01-glossary.md
-  - CHANGELOG.md
-next_commit: "0011"
+commit: "0011"
+title: "Rewrite Chapter 1 Opening"
+version: "v0.12.0"
+next_commit: "0012"

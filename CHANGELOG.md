@@ -1,7 +1,8 @@
 # Changelog
 
-## v0.4.0-beta1
+## v0.4.0-beta2
 
-- Add Markdown table renderer.
-- Add table layout theme.
-- Document rendered table workflow.
+- Integrate professional table rendering into build.py.
+- Integrate callout box rendering into build.py.
+- Integrate pull quote rendering into build.py.
+- Add Chapter 1 build test elements.

@@ -1,4 +1,4 @@
-commit: "0038"
-title: "Rendered Markdown tables"
-version: "0.4.0-beta1"
-next_commit: "0039"
+commit: "0039"
+title: "Integrate publishing components into build pipeline"
+version: "0.4.0-beta2"
+next_commit: "0040"

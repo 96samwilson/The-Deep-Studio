@@ -1,6 +1,7 @@
 # Changelog
 
-## v0.3.1
+## v0.3.2
 
-- Begin Chapter 2 manuscript.
-- Establish perception-first model of musical change.
+- Add professional table rendering scaffold.
+- Add table theme configuration.
+- Begin Publishing Engine roadmap.

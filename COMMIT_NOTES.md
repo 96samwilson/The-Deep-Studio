@@ -1,8 +1,9 @@
-# Commit 0029
+# Commit 0030
 
-Begins Chapter 2: *How We Hear Change*.
+Introduces the first component of the Publishing Engine.
 
-This chapter extends the listening philosophy established in Chapter 1 by examining how different types of change influence attention and expectation.
+Focus:
+- Replace plain-text table output with styled publication-quality tables.
 
 Next:
-Commit 0030 — Chapter 2 signature frameworks and diagrams.
+Commit 0031 — SVG rendering engine.

@@ -1,0 +1,6 @@
+table:
+  header_background: "#ECE7DC"
+  border: "#888888"
+  alternating_rows: true
+  wrap_text: true
+  repeat_headers: true

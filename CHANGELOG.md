@@ -1,10 +1,7 @@
 # Changelog
 
-## v0.13.0
+## v0.14.0
 
-- Introduce signature visual language.
-- Add Deep Studio Compass.
-- Add Attention Engine.
-- Add Transformation Spiral.
-- Add Resampling Flywheel.
-- Add diagram style guide.
+- Add first Chapter 1 prototype PDF.
+- Add assembled Chapter 1 Markdown source.
+- Establish initial print/export style for the book.

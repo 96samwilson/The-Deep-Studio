@@ -1,4 +1,8 @@
-commit: "0012"
-title: "Signature diagram language"
-version: "v0.13.0"
-next_commit: "0013"
+commit: "0013"
+title: "Add Chapter 1 prototype PDF"
+version: "v0.14.0"
+files:
+  - book/part-01-the-listener/chapter-01-assembled-prototype.md
+  - exports/pdf/chapter-01-prototype.pdf
+  - CHANGELOG.md
+next_commit: "0014"

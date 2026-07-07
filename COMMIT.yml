@@ -1,3 +1,11 @@
-commit: "0014"
-title: "Initial publishing system"
-next_commit: "0015"
+commit: "0015"
+title: "Improve publishing pipeline"
+version: "v0.16.0"
+files:
+  - book/book.yml
+  - build.py
+  - build.ps1
+  - README_BUILD.md
+  - requirements.txt
+  - CHANGELOG.md
+next_commit: "0016"

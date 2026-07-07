@@ -1,0 +1,22 @@
+title: The Deep Studio
+subtitle: Designing Hypnotic Electronic Music
+version: draft
+language: en-GB
+
+front_matter:
+  - book/front-matter/01-title-page.md
+  - book/front-matter/02-copyright.md
+  - book/front-matter/03-preface.md
+  - book/front-matter/04-how-to-use-this-book.md
+  - book/front-matter/05-design-philosophy.md
+  - book/front-matter/06-acknowledgements.md
+
+chapters:
+  - title: Chapter 1 — Listening Before Equipment
+    output: exports/pdf/chapter-01-listening-before-equipment.pdf
+    files:
+      - book/part-01-the-listener/chapter-01-manifesto.md
+      - book/part-01-the-listener/chapter-01-listening-before-equipment.md
+      - book/part-01-the-listener/chapter-01-four-dimensions-of-listening.md
+      - book/part-01-the-listener/chapter-01-listening-exercises-and-studio-missions.md
+      - book/part-01-the-listener/chapter-01-summary-and-reference.md

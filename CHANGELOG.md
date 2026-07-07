@@ -1,8 +1,8 @@
 # Changelog
 
-## v0.19.0
+## v0.20.0
 
-- Add theme configuration.
-- Add layout scaffold.
-- Add reusable chapter title template.
-- Add pull quote template.
+- Add editorial review workflow.
+- Add Chapter 1 review notes.
+- Add chapter review checklist.
+- Add editorial scan scaffold.

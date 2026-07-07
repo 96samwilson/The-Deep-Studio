@@ -1,7 +1,10 @@
 # Changelog
 
-## v0.12.0
+## v0.13.0
 
-- Rewrite the opening of Chapter 1.
-- Establish the book's final editorial voice.
-- Introduce the central thesis: attention is the producer's true medium.
+- Introduce signature visual language.
+- Add Deep Studio Compass.
+- Add Attention Engine.
+- Add Transformation Spiral.
+- Add Resampling Flywheel.
+- Add diagram style guide.

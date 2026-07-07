@@ -1,13 +1,5 @@
-# Commit 0011
+# Commit 0012
 
-## Title
+This commit replaces generic illustrations with the beginning of a recognisable visual identity for the book.
 
-Rewrite Chapter 1 Opening
-
-## Purpose
-
-Replace the original introductory prose with a stronger editorial voice that can serve as the stylistic template for the remainder of the book.
-
-## Next
-
-Commit 0012 — Redesign Chapter 1 diagrams.
+Next: Commit 0013 — Assemble and export the first polished Chapter 1 PDF.

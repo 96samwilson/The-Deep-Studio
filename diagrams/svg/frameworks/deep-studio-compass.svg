@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+<defs><style>
+.bg{fill:#faf8f3}.t{font-family:Arial;fill:#222}.b{fill:#fff;stroke:#222;stroke-width:2;rx:12}
+.l{stroke:#222;stroke-width:2;fill:none}
+</style></defs>
+<rect class="bg" width="1200" height="800"/><text class="t" x="600" y="70" text-anchor="middle" font-size="40" font-weight="700">The Deep Studio Compass</text>
+<circle cx="600" cy="400" r="220" class="l"/>
+<line x1="600" y1="180" x2="600" y2="620" class="l"/>
+<line x1="380" y1="400" x2="820" y2="400" class="l"/>
+<text class="t" x="600" y="165" text-anchor="middle" font-size="28">Focus</text>
+<text class="t" x="600" y="660" text-anchor="middle" font-size="28">Distance</text>
+<text class="t" x="330" y="408" text-anchor="middle" font-size="28">Weight</text>
+<text class="t" x="870" y="408" text-anchor="middle" font-size="28">Movement</text>
+<text class="t" x="600" y="405" text-anchor="middle" font-size="22">Attention</text>
+</svg>

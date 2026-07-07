@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+<defs><style>
+.bg{fill:#faf8f3}.t{font-family:Arial;fill:#222}.b{fill:#fff;stroke:#222;stroke-width:2;rx:12}
+.l{stroke:#222;stroke-width:2;fill:none}
+</style></defs>
+<rect class="bg" width="1200" height="800"/><text class="t" x="600" y="70" text-anchor="middle" font-size="40" font-weight="700">The Attention Engine</text>
+<rect class="b" x="80" y="340" width="170" height="70"/><text class="t" x="165" y="382" text-anchor="middle">Listen</text>
+<rect class="b" x="300" y="340" width="170" height="70"/><text class="t" x="385" y="382" text-anchor="middle">Interpret</text>
+<rect class="b" x="520" y="340" width="170" height="70"/><text class="t" x="605" y="382" text-anchor="middle">Decide</text>
+<rect class="b" x="740" y="340" width="170" height="70"/><text class="t" x="825" y="382" text-anchor="middle">Transform</text>
+<rect class="b" x="960" y="340" width="170" height="70"/><text class="t" x="1045" y="382" text-anchor="middle">Listen</text>
+<line class="l" x1="250" y1="375" x2="300" y2="375"/><line class="l" x1="470" y1="375" x2="520" y2="375"/><line class="l" x1="690" y1="375" x2="740" y2="375"/><line class="l" x1="910" y1="375" x2="960" y2="375"/>
+</svg>

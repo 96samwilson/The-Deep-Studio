@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+<defs><style>
+.bg{fill:#faf8f3}.t{font-family:Arial;fill:#222}.b{fill:#fff;stroke:#222;stroke-width:2;rx:12}
+.l{stroke:#222;stroke-width:2;fill:none}
+</style></defs>
+<rect class="bg" width="1200" height="800"/><text class="t" x="600" y="70" text-anchor="middle" font-size="40" font-weight="700">The Transformation Spiral</text>
+<path class="l" d="M600,400 m0,-10
+c80,-80 180,0 120,90
+c-70,100 -240,40 -220,-90
+c20,-170 270,-190 360,-20" />
+<text class="t" x="760" y="220">Small changes accumulate</text>
+</svg>

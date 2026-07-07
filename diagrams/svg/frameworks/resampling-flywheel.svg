@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+<defs><style>
+.bg{fill:#faf8f3}.t{font-family:Arial;fill:#222}.b{fill:#fff;stroke:#222;stroke-width:2;rx:12}
+.l{stroke:#222;stroke-width:2;fill:none}
+</style></defs>
+<rect class="bg" width="1200" height="800"/><text class="t" x="600" y="70" text-anchor="middle" font-size="40" font-weight="700">The Resampling Flywheel</text>
+<circle cx="600" cy="400" r="170" class="l"/>
+<text class="t" x="600" y="245" text-anchor="middle">Record</text>
+<text class="t" x="760" y="410">Transform</text>
+<text class="t" x="600" y="590" text-anchor="middle">Archive</text>
+<text class="t" x="420" y="410" text-anchor="middle">Compose</text>
+</svg>

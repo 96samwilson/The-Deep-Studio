@@ -1,12 +1,8 @@
-# Commit 0028
+# Commit 0029
 
-Commit message:
+Begins Chapter 2: *How We Hear Change*.
 
-0028: Freeze Chapter 1 Version 1.0
-
-This commit marks the first complete editorial baseline for Chapter 1.
-
-Future revisions may improve prose and design, but the conceptual structure is now stable.
+This chapter extends the listening philosophy established in Chapter 1 by examining how different types of change influence attention and expectation.
 
 Next:
-Commit 0029 — Begin Chapter 2: How We Hear Change.
+Commit 0030 — Chapter 2 signature frameworks and diagrams.

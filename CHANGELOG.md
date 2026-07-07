@@ -1,7 +1,6 @@
 # Changelog
 
-## v0.3.0
+## v0.3.1
 
-- Freeze Chapter 1 editorial baseline.
-- Assemble unified Chapter 1 manuscript.
-- Establish template for future chapters.
+- Begin Chapter 2 manuscript.
+- Establish perception-first model of musical change.

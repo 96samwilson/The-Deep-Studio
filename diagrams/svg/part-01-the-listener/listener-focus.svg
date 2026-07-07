@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+
+<defs>
+  <style>
+    .bg { fill: #f7f4ef; }
+    .ink { fill: #1f1f1f; font-family: Arial, Helvetica, sans-serif; }
+    .muted { fill: #666; font-family: Arial, Helvetica, sans-serif; }
+    .box { fill: #ffffff; stroke: #1f1f1f; stroke-width: 2; rx: 16; }
+    .line { stroke: #1f1f1f; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+    .soft { fill: #e8e0d2; stroke: #1f1f1f; stroke-width: 1.5; rx: 12; }
+    .accent { fill: #d9c7a3; stroke: #1f1f1f; stroke-width: 2; rx: 12; }
+  </style>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,6 L9,3 z" fill="#1f1f1f" />
+  </marker>
+</defs>
+
+<rect class="bg" width="1200" height="800"/>
+<text class="ink" x="600" y="80" text-anchor="middle" font-size="44" font-weight="700">Listener Focus</text>
+<text class="muted" x="600" y="125" text-anchor="middle" font-size="22">Attention moves through layers, not track names</text>
+
+<rect class="soft" x="170" y="210" width="860" height="90"/>
+<text class="ink" x="220" y="265" font-size="28" font-weight="700">Foreground</text>
+<text class="muted" x="520" y="265" font-size="24">the current focal point</text>
+
+<rect class="soft" x="170" y="350" width="860" height="90"/>
+<text class="ink" x="220" y="405" font-size="28" font-weight="700">Midground</text>
+<text class="muted" x="520" y="405" font-size="24">supporting motion and harmony</text>
+
+<rect class="soft" x="170" y="490" width="860" height="90"/>
+<text class="ink" x="220" y="545" font-size="28" font-weight="700">Background</text>
+<text class="muted" x="520" y="545" font-size="24">space, atmosphere, memory</text>
+
+<path class="line" d="M600 630 C450 690 300 690 210 620"/>
+<path class="line" d="M600 630 C750 690 900 690 990 620"/>
+<text class="ink" x="600" y="720" text-anchor="middle" font-size="24">The producer guides focus between layers over time.</text>
+</svg>

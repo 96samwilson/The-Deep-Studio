@@ -1,4 +1,12 @@
-commit: "0008"
-title: "Listening Exercises and Studio Missions"
-version: "v0.9.0"
-next_commit: "0009"
+commit: "0009"
+title: "Add Chapter 1 diagrams"
+version: "v0.10.0"
+files:
+  - diagrams/svg/part-01-the-listener/attention-cycle.svg
+  - diagrams/svg/part-01-the-listener/four-timescales-of-movement.svg
+  - diagrams/svg/part-01-the-listener/four-dimensions-of-listening.svg
+  - diagrams/svg/part-01-the-listener/decision-loop.svg
+  - diagrams/svg/part-01-the-listener/listener-focus.svg
+  - DIAGRAM_CATALOGUE.md
+  - CHANGELOG.md
+next_commit: "0010"

@@ -1,17 +1,25 @@
-# Commit 0008
+# Commit 0009 — Chapter 1 Diagrams
 
-## Added
+## Commit message
 
-- Listening Exercise 1
-- Listening Exercise 2
-- Studio Mission 1
-- Studio Mission 2
-- Reflection questions
+```text
+0009: Add Chapter 1 diagrams
+```
+
+## Files Added or Updated
+
+- `diagrams/svg/part-01-the-listener/attention-cycle.svg`
+- `diagrams/svg/part-01-the-listener/four-timescales-of-movement.svg`
+- `diagrams/svg/part-01-the-listener/four-dimensions-of-listening.svg`
+- `diagrams/svg/part-01-the-listener/decision-loop.svg`
+- `diagrams/svg/part-01-the-listener/listener-focus.svg`
+- `DIAGRAM_CATALOGUE.md`
+- `CHANGELOG.md`
 
 ## Purpose
 
-Translate the ideas of Chapter 1 into repeatable studio practice.
+This commit adds the first set of editable vector diagrams for the book. These diagrams support Chapter 1 and establish the initial visual language for Part I.
 
-## Next
+## Next Commit
 
-Commit 0009 — Chapter 1 diagrams
+Commit 0010 — Chapter 1 summary, glossary, quick reference and assembly notes.

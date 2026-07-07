@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+
+<defs>
+  <style>
+    .bg { fill: #f7f4ef; }
+    .ink { fill: #1f1f1f; font-family: Arial, Helvetica, sans-serif; }
+    .muted { fill: #666; font-family: Arial, Helvetica, sans-serif; }
+    .box { fill: #ffffff; stroke: #1f1f1f; stroke-width: 2; rx: 16; }
+    .line { stroke: #1f1f1f; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+    .soft { fill: #e8e0d2; stroke: #1f1f1f; stroke-width: 1.5; rx: 12; }
+    .accent { fill: #d9c7a3; stroke: #1f1f1f; stroke-width: 2; rx: 12; }
+  </style>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,6 L9,3 z" fill="#1f1f1f" />
+  </marker>
+</defs>
+
+<rect class="bg" width="1200" height="800"/>
+<text class="ink" x="600" y="80" text-anchor="middle" font-size="44" font-weight="700">Four Dimensions of Listening</text>
+<text class="muted" x="600" y="125" text-anchor="middle" font-size="22">Describe the experience before choosing the processor</text>
+
+<rect class="box" x="120" y="190" width="430" height="190"/>
+<text class="ink" x="335" y="250" text-anchor="middle" font-size="34" font-weight="700">Weight</text>
+<text class="muted" x="335" y="300" text-anchor="middle" font-size="22">mass • warmth • solidity</text>
+
+<rect class="box" x="650" y="190" width="430" height="190"/>
+<text class="ink" x="865" y="250" text-anchor="middle" font-size="34" font-weight="700">Distance</text>
+<text class="muted" x="865" y="300" text-anchor="middle" font-size="22">depth • space • placement</text>
+
+<rect class="box" x="120" y="460" width="430" height="190"/>
+<text class="ink" x="335" y="520" text-anchor="middle" font-size="34" font-weight="700">Movement</text>
+<text class="muted" x="335" y="570" text-anchor="middle" font-size="22">life • drift • evolution</text>
+
+<rect class="box" x="650" y="460" width="430" height="190"/>
+<text class="ink" x="865" y="520" text-anchor="middle" font-size="34" font-weight="700">Focus</text>
+<text class="muted" x="865" y="570" text-anchor="middle" font-size="22">attention • clarity • priority</text>
+
+<text class="ink" x="600" y="725" text-anchor="middle" font-size="24">Ask what the sound needs, not which effect to use.</text>
+</svg>

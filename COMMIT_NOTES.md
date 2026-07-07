@@ -1,5 +1,12 @@
-# Commit 0027
+# Commit 0028
 
-This commit reorganises Chapter 1 into a single editorial structure ready for final assembly.
+Commit message:
 
-Next: Commit 0028 — Assemble and freeze Chapter 1 Version 1.0.
+0028: Freeze Chapter 1 Version 1.0
+
+This commit marks the first complete editorial baseline for Chapter 1.
+
+Future revisions may improve prose and design, but the conceptual structure is now stable.
+
+Next:
+Commit 0029 — Begin Chapter 2: How We Hear Change.

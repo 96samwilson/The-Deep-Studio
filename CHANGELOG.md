@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.2.7
+## v0.3.0
 
-- Create unified Chapter 1 editorial structure.
-- Define chapter layout template.
-- Prepare Chapter 1 for final integration.
+- Freeze Chapter 1 editorial baseline.
+- Assemble unified Chapter 1 manuscript.
+- Establish template for future chapters.

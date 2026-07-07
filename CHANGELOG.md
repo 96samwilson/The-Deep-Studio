@@ -1,8 +1,10 @@
 # Changelog
 
-## v0.20.0
+## v0.1.0
 
-- Add editorial review workflow.
-- Add Chapter 1 review notes.
-- Add chapter review checklist.
-- Add editorial scan scaffold.
+First project milestone.
+
+- Publishing infrastructure established.
+- Chapter 1 prototype complete.
+- Diagram framework created.
+- Editorial workflow introduced.

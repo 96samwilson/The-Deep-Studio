@@ -1,11 +1,15 @@
-# Commit 0019
+# Commit 0020
 
-Introduces the editorial layer for the publishing workflow.
+## Commit message
 
-Adds:
-- Chapter review notes
-- Editorial checklist
-- Editorial scan scaffold
+0020: Release version 0.1.0
 
-Next:
-Commit 0020 — Freeze Chapter 1 Version 1.0
+This tags the first complete milestone of The Deep Studio.
+
+The project now contains:
+- manuscript foundations
+- publishing pipeline
+- diagram architecture
+- editorial workflow
+
+From Commit 0021 onward the emphasis shifts from infrastructure to producing publication-quality content.

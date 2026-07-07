@@ -1,8 +1,8 @@
 # Changelog
 
-## v0.18.0
+## v0.19.0
 
-- Add Table of Contents generator scaffold.
-- Add List of Figures template.
-- Add book metadata configuration.
-- Update publishing workflow.
+- Add theme configuration.
+- Add layout scaffold.
+- Add reusable chapter title template.
+- Add pull quote template.

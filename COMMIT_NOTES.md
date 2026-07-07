@@ -1,16 +1,14 @@
-# Commit 0017
+# Commit 0018
 
-## Purpose
+Introduces the first reusable typesetting layer.
 
-Prepare the publishing pipeline for automatic front matter generation.
+Added:
 
-### Added
+- theme configuration
+- layout scaffold
+- chapter opening template
+- pull quote template
 
-- TOC generation scaffold
-- List of Figures template
-- Book metadata configuration
-- Updated build wrapper
+Next:
 
-## Next
-
-Commit 0018 — Automatic typography, running headers and page layout.
+Commit 0019 — Chapter 1 editorial polish using the publishing system.

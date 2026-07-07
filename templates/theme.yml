@@ -1,0 +1,13 @@
+page:
+  size: A4
+  margins_mm: [22,22,20,20]
+
+typography:
+  title: Helvetica-Bold
+  heading: Helvetica-Bold
+  body: Helvetica
+  mono: Courier
+
+running_headers: true
+page_numbers: true
+pull_quotes: true

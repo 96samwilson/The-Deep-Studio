@@ -1,0 +1,3 @@
+> "{{quote}}"
+
+— The Deep Studio

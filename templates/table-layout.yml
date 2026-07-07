@@ -1,0 +1,7 @@
+tables:
+  header_background: "#ECE7DC"
+  grid_colour: "#999999"
+  repeat_headers: true
+  wrap_cells: true
+  alternating_rows: true
+  padding_pt: 6

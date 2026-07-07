@@ -1,6 +1,6 @@
-# Commit 0037
+# Commit 0038
 
-Introduces the SVG-to-PDF rendering layer.
+Introduces the Markdown table renderer.
 
-Next:
-Commit 0038 — Replace Markdown tables with fully rendered publication-quality tables.
+This is the final major rendering component before the parser integration
+work in Commit 0039.

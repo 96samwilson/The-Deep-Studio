@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.3.9
+## v0.4.0-beta1
 
-- Add SVG PDF renderer scaffold.
-- Add image placement configuration.
-- Document SVG rendering workflow.
+- Add Markdown table renderer.
+- Add table layout theme.
+- Document rendered table workflow.

@@ -1,0 +1,8 @@
+chapter:
+  opener: true
+  pull_quote: true
+  summary: true
+  exercises: true
+  worksheets: true
+  case_studies: true
+  references: false

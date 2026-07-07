@@ -1,5 +1,5 @@
-# Commit 0026
+# Commit 0027
 
-Introduces Attention Mapping as a practical analysis tool linking all previous listening frameworks.
+This commit reorganises Chapter 1 into a single editorial structure ready for final assembly.
 
-Next: Commit 0027 — Complete Chapter 1 redesign.
+Next: Commit 0028 — Assemble and freeze Chapter 1 Version 1.0.

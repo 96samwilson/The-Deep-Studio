@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.2.6
+## v0.2.7
 
-- Add Attention Mapping framework.
-- Add reusable Attention Map worksheet.
-- Add prototype Attention Map diagram.
+- Create unified Chapter 1 editorial structure.
+- Define chapter layout template.
+- Prepare Chapter 1 for final integration.

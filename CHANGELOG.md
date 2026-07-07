@@ -1,7 +1,6 @@
 # Changelog
 
-## v0.2.3
+## v0.2.4
 
-- Introduce the Deep Listening Framework.
-- Add eight listening dimensions.
-- Add reusable listening analysis worksheet.
+- Add Frequency as Perception section.
+- Add frequency perception journal.

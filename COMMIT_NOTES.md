@@ -1,6 +1,5 @@
-# Commit 0023
+# Commit 0024
 
-Introduces the Deep Listening Framework and expands the analytical vocabulary of
-the book from four core dimensions to eight complementary dimensions.
+Introduces frequency as a perceptual concept rather than a purely technical one.
 
-Next: Commit 0024 — Frequency as Perception.
+Next: Commit 0025 — Time as Perception.

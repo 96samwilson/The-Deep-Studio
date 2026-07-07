@@ -1,10 +1,7 @@
 # Changelog
 
-## v0.1.0
+## v0.2.1
 
-First project milestone.
-
-- Publishing infrastructure established.
-- Chapter 1 prototype complete.
-- Diagram framework created.
-- Editorial workflow introduced.
+- Begin second-edition rewrite of Chapter 1.
+- Strengthen narrative voice.
+- Introduce restraint as a central production principle.

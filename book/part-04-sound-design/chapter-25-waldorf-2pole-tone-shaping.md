@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 25 — Waldorf 2-Pole: Tone Shaping
 
 > Draft status: placeholder
 

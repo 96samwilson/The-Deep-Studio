@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 31 — Frequency Atlas
 
 > Draft status: placeholder
 

@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 32 — Low-End Discipline
 
 > Draft status: placeholder
 

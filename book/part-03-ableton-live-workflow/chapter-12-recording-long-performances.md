@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 12 — Recording Long Performances
 
 > Draft status: placeholder
 

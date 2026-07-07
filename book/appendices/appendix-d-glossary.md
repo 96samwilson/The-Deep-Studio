@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Appendix D — Glossary
 
 > Draft status: placeholder
 

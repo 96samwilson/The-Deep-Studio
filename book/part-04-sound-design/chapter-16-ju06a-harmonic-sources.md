@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 16 — Harmonic Sources: JU-06A
 
 > Draft status: placeholder
 

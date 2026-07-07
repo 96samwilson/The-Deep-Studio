@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 35 — Master Bus Philosophy
 
 > Draft status: placeholder
 

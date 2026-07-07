@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 10 — Gain Staging and Signal Discipline
 
 > Draft status: placeholder
 

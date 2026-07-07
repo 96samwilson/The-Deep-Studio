@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Appendix B — Frequency Reference Sheets
 
 > Draft status: placeholder
 

@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 15 — Session Management and Versioning
 
 > Draft status: placeholder
 

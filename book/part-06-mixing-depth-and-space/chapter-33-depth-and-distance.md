@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 33 — Depth and Distance
 
 > Draft status: placeholder
 

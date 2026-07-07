@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 21 — Analog Heat +FX: Weight
 
 > Draft status: placeholder
 

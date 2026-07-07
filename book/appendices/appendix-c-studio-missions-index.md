@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Appendix C — Studio Missions Index
 
 > Draft status: placeholder
 

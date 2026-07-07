@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Appendix E — Build and Publishing Workflow
 
 > Draft status: placeholder
 

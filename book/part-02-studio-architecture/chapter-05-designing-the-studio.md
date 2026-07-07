@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 5 — Designing the Studio
 
 > Draft status: placeholder
 

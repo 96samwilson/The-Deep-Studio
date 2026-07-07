@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Appendix A — Complete Hardware Routing
 
 > Draft status: placeholder
 

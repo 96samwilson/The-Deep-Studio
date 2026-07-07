@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 36 — Building a Personal Sound Library
 
 > Draft status: placeholder
 

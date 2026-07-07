@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 19 — Granulator III: Erosion
 
 > Draft status: placeholder
 

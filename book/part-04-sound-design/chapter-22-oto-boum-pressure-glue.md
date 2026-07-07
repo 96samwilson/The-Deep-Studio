@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 22 — OTO BOUM: Pressure and Glue
 
 > Draft status: placeholder
 

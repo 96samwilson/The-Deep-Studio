@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 3 — Attention, Repetition and Time
 
 > Draft status: placeholder
 

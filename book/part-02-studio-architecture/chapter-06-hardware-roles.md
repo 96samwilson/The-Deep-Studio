@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 6 — Hardware Roles
 
 > Draft status: placeholder
 

@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 17 — Bass and Motion: DB-01
 
 > Draft status: placeholder
 

@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 14 — External Audio Effect Routing
 
 > Draft status: placeholder
 

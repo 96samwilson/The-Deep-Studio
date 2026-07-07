@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 30 — Silence and Negative Space
 
 > Draft status: placeholder
 

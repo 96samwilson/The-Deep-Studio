@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 28 — Energy Without Drops
 
 > Draft status: placeholder
 

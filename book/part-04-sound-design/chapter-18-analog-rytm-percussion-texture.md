@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 18 — Percussion and Texture: Analog Rytm MkII
 
 > Draft status: placeholder
 

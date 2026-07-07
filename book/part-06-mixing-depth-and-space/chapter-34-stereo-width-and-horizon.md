@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 34 — Stereo Width and Horizon
 
 > Draft status: placeholder
 

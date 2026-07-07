@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 38 — From Library to Composition
 
 > Draft status: placeholder
 

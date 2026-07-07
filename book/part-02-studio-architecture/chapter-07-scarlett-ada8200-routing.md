@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 7 — Scarlett 18i20 and ADA8200 Routing
 
 > Draft status: placeholder
 

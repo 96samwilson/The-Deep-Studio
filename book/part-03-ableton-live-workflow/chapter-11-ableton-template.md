@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 11 — The Deep Studio Ableton Template
 
 > Draft status: placeholder
 

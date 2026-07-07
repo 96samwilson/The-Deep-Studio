@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 13 — Printing and Resampling
 
 > Draft status: placeholder
 

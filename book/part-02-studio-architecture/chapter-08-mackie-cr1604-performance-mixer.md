@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 8 — Mackie CR1604 as Performance Instrument
 
 > Draft status: placeholder
 

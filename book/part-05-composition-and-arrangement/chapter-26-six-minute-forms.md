@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 26 — Six-Minute Forms
 
 > Draft status: placeholder
 

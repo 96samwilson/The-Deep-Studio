@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 9 — Processing Buses
 
 > Draft status: placeholder
 

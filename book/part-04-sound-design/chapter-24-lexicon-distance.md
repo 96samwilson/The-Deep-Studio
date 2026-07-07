@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 24 — Lexicon MX400: Distance
 
 > Draft status: placeholder
 

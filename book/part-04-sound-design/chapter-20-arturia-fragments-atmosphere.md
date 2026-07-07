@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 20 — Arturia Fragments: Atmosphere
 
 > Draft status: placeholder
 

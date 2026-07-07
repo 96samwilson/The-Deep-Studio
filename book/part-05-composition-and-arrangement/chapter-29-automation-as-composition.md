@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 29 — Automation as Composition
 
 > Draft status: placeholder
 

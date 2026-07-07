@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 4 — The Four Dimensions of Listening
 
 > Draft status: placeholder
 

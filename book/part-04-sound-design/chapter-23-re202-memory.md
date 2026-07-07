@@ -1,4 +1,4 @@
-# Chapter 1 — Listening Before Equipment
+# Chapter 23 — RE-202: Memory
 
 > Draft status: placeholder
 

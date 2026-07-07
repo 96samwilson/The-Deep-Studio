@@ -1,3 +1,16 @@
-exports/
-*.pdf
 .DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Generated exports
+exports/pdf/*.pdf
+
+# Audio can become large; add selectively
+audio/examples/*.wav
+audio/examples/*.aif
+audio/examples/*.aiff
+
+# Ableton backups
+*.als.asd
+*.asd

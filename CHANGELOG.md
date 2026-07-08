@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.5.1-alpha2
+## v0.5.1-alpha3
 
-- Add manifest application.
-- Add preview mode.
-- Add overwrite protection.
+- Add automated build runner.
+- Add build summary generation.
+- Prepare quality gate before Git commit.

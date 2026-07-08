@@ -1,15 +1,11 @@
 # Automation
 
-Commit 0050 introduces manifest application.
+Commit 0051 adds automatic build verification.
 
-Preview:
-
-```powershell
-python tools/apply_cli.py generated/commit-0050/manifest.json
-```
-
-Apply:
+Run:
 
 ```powershell
-python tools/apply_cli.py generated/commit-0050/manifest.json --apply
+python tools/build_cli.py
 ```
+
+This executes the PDF build and writes a build summary.

@@ -1,7 +1,8 @@
 # Changelog
 
-## v0.5.0-alpha4
+## v0.5.0-alpha5
 
-- Add repository writer.
-- Add preview mode.
-- Add repository update report.
+- Add guarded Git automation helpers.
+- Add interactive commit workflow CLI.
+- Support status, staging, commit, tag and push.
+- Update automation documentation.

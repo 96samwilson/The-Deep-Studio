@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.5.0-alpha3
+## v0.5.0-alpha4
 
-- Add structured file manifest.
-- Add schema validation scaffold.
-- Prepare deterministic repository writing.
+- Add repository writer.
+- Add preview mode.
+- Add repository update report.

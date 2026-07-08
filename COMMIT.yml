@@ -1,4 +1,4 @@
-commit: "0043"
-title: "Structured file generation"
-version: "0.5.0-alpha3"
-next_commit: "0044"
+commit: "0044"
+title: "Repository writer"
+version: "0.5.0-alpha4"
+next_commit: "0045"

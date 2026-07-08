@@ -1,6 +1,6 @@
-# Commit 0043
+# Commit 0044
 
-Adds structured JSON file manifests and validation.
+Adds repository writing with preview and overwrite protection.
 
 Next:
-Commit 0044 — Repository writer.
+Commit 0045 — Git automation.

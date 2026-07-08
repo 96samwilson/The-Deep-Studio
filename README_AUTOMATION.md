@@ -1,10 +1,15 @@
 # Automation
 
-Commit 0043 introduces structured file generation.
+Commit 0044 introduces the repository writer.
 
-Workflow:
+Current workflow:
 
-1. Generate JSON
-2. Validate schema
-3. Validate paths
-4. Apply to repository (next commit)
+Commit plan
+→ OpenAI API
+→ Structured manifest
+→ Validation
+→ Preview
+→ Repository write
+→ Report
+
+Git automation is introduced in Commit 0045.

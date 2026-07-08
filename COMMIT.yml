@@ -1,4 +1,4 @@
-commit: "0052"
-title: "Quality gate"
-version: "0.5.1-alpha4"
-next_commit: "0053"
+commit: "0053"
+title: "Consolidated automation runner"
+version: "0.5.1"
+next_commit: "0054"

@@ -1,8 +1,8 @@
 # Changelog
 
-## v0.5.1-alpha4
+## v0.5.1
 
-- Add quality gate.
-- Validate build success.
-- Validate expected output files.
-- Prepare release readiness checks.
+- Add consolidated commit runner.
+- Add daily automation workflow.
+- Add release report generation.
+- Document the recommended automation workflow.

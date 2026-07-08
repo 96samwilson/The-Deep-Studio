@@ -1,7 +1,7 @@
 # Changelog
 
-## v0.5.0-alpha6
+## v0.5.0-alpha7
 
-- Add review queue.
-- Add review CLI scaffold.
-- Introduce approval workflow.
+- Add unified pipeline orchestrator.
+- Add pipeline CLI.
+- Prepare end-to-end workflow.

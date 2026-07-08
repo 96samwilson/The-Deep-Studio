@@ -1,6 +1,6 @@
-# Commit 0046
+# Commit 0047
 
-Adds interactive review before repository writing and Git operations.
+Introduces a single orchestration layer connecting the automation components.
 
 Next:
-Commit 0047 — Batch generation.
+Commit 0048 — End-to-end publishing pipeline.

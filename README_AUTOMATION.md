@@ -1,11 +1,11 @@
 # Automation
 
-Commit 0046 introduces interactive review mode.
+Commit 0047 introduces a unified automation pipeline.
 
-Goals:
+Example:
 
-- inspect every generated file
-- approve individually
-- reject
-- regenerate
-- edit before writing
+```powershell
+python tools/pipeline_cli.py --preview
+```
+
+Future versions will execute each stage automatically.

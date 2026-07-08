@@ -1,7 +1,6 @@
-# Commit 0049
+# Commit 0050
 
-Introduces strict JSON generation as the contract between the model
-and the repository automation pipeline.
+Implements application of validated manifests to the repository.
 
 Next:
-Commit 0050 — Automatic manifest application.
+Commit 0051 — Automatic PDF build and verification.

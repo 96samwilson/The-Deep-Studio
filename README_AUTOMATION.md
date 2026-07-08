@@ -1,12 +1,15 @@
 # Automation
 
-Commit 0049 introduces a strict JSON generation contract.
+Commit 0050 introduces manifest application.
 
-Pipeline:
+Preview:
 
-Commit Plan
-→ Prompt Builder
-→ OpenAI API
-→ JSON
-→ Validation
-→ Repository Writer
+```powershell
+python tools/apply_cli.py generated/commit-0050/manifest.json
+```
+
+Apply:
+
+```powershell
+python tools/apply_cli.py generated/commit-0050/manifest.json --apply
+```

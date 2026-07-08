@@ -1,4 +1,4 @@
-commit: "0049"
-title: "Structured JSON generation"
-version: "0.5.1-alpha1"
-next_commit: "0050"
+commit: "0050"
+title: "Manifest application"
+version: "0.5.1-alpha2"
+next_commit: "0051"

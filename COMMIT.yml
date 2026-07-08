@@ -1,4 +1,4 @@
-commit: "0047"
-title: "Unified automation pipeline"
-version: "0.5.0-alpha7"
-next_commit: "0048"
+commit: "0048"
+title: "End-to-end automation pipeline"
+version: "0.5.0"
+next_commit: "0049"

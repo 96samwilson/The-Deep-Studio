@@ -1,50 +1,23 @@
 # Automation Roadmap
 
-## 0041 — Automation Foundation
+## Completed
 
-Completed.
+- 0041 — Automation foundation
+- 0042 — OpenAI API integration
+- 0043 — Structured file generation
+- 0044 — Repository writer
+- 0045 — Git automation
+- 0046 — Interactive review mode
+- 0047 — Unified automation pipeline
+- 0048 — End-to-end automation CLI
 
-## 0042 — OpenAI API Integration
+## Next Phase
 
-Completed.
+The next automation improvements should focus on robustness rather than more scaffolding:
 
-## 0043 — Structured File Generation
-
-Completed.
-
-## 0044 — Repository Writer
-
-Completed.
-
-## 0045 — Git Automation
-
-This commit.
-
-- Add guarded Git wrapper
-- Add commit workflow CLI
-- Support status, add, commit, tag and push
-- Require confirmation by default
-
-## 0046 — Interactive Review Mode
-
-Next.
-
-- Approve generated files individually
-- Skip files
-- Regenerate files
-- Write approved files only
-
-## 0047 — Batch Mode
-
-- Generate multiple pending commits
-- Stop on validation failure
-- Produce summary report
-
-## 0048 — End-to-End Pipeline
-
-- Generate
-- Validate
-- Review
-- Build PDF
-- Commit
-- Push
+- Structured JSON generation directly from the OpenAI API
+- Applying approved manifests automatically
+- Better error reporting
+- Batch generation
+- PDF validation after build
+- Chapter-level quality checks

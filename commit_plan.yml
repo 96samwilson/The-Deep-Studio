@@ -1,10 +1,35 @@
 commits:
-  - id: "0041"
-    title: "Automation foundation"
-    status: pending
-    prompt: "Generate Commit 0041"
-
   - id: "0042"
     title: "OpenAI API integration"
     status: pending
-    prompt: "Generate Commit 0042"
+    prompt: >
+      Add the first OpenAI API integration layer for automated commit generation.
+      Include an API client, dry-run mode, environment configuration,
+      documentation, and update the automation roadmap.
+
+  - id: "0043"
+    title: "Structured file generation"
+    status: pending
+    prompt: >
+      Extend the generator so the model returns structured JSON describing files
+      to create, modify, and delete.
+
+  - id: "0044"
+    title: "Repository writer"
+    status: pending
+    prompt: >
+      Write generated structured files directly into the local repository with
+      safety checks and preview mode.
+
+  - id: "0045"
+    title: "Git automation"
+    status: pending
+    prompt: >
+      Add optional git add, commit, tag, and push steps with explicit confirmation.
+
+  - id: "0046"
+    title: "Interactive review mode"
+    status: pending
+    prompt: >
+      Add an interactive review workflow so generated files can be approved,
+      skipped, or regenerated before committing.

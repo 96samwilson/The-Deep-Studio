@@ -1,4 +1,4 @@
-commit: "0041"
-title: "Automation foundation"
-version: "0.5.0-alpha1"
-next_commit: "0042"
+commit: "0042"
+title: "OpenAI API integration"
+version: "0.5.0-alpha2"
+next_commit: "0043"

@@ -6,6 +6,12 @@ Thumbs.db
 # Generated exports
 exports/pdf/*.pdf
 
+# Generated API output
+generated/
+
+# Local environment
+.env
+
 # Audio can become large; add selectively
 audio/examples/*.wav
 audio/examples/*.aif

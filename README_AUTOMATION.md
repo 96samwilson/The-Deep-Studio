@@ -1,11 +1,11 @@
 # Automation
 
-Commit 0051 adds automatic build verification.
+Commit 0052 introduces a quality gate.
 
-Run:
+Example:
 
 ```powershell
-python tools/build_cli.py
+python tools/quality_gate_cli.py --build-success --expect exports/pdf/The-Deep-Studio-Draft.pdf
 ```
 
-This executes the PDF build and writes a build summary.
+A non-zero exit code indicates the pipeline should stop before committing.

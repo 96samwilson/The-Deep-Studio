@@ -1,7 +1,8 @@
 # Changelog
 
-## v0.5.1-alpha3
+## v0.5.1-alpha4
 
-- Add automated build runner.
-- Add build summary generation.
-- Prepare quality gate before Git commit.
+- Add quality gate.
+- Validate build success.
+- Validate expected output files.
+- Prepare release readiness checks.

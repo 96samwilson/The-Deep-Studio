@@ -1,6 +1,7 @@
-# Commit 0051
+# Commit 0052
 
-Adds automatic PDF build verification and summary generation.
+Adds a publishing quality gate that can block Git operations when builds fail
+or required output files are missing.
 
 Next:
-Commit 0052 — Quality gate and release readiness checks.
+Commit 0053 — Integrated release report and one-command workflow.

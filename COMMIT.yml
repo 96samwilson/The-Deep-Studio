@@ -1,4 +1,4 @@
-commit: "0048"
-title: "End-to-end automation pipeline"
-version: "0.5.0"
-next_commit: "0049"
+commit: "0049"
+title: "Structured JSON generation"
+version: "0.5.1-alpha1"
+next_commit: "0050"

@@ -1,8 +1,7 @@
 # Changelog
 
-## v0.5.0
+## v0.5.1-alpha1
 
-- Add end-to-end automation CLI.
-- Add pipeline status checker.
-- Document preview, generate, build and commit workflow.
-- Complete first automation milestone.
+- Add JSON prompt builder.
+- Add JSON validator.
+- Move toward deterministic repository updates.

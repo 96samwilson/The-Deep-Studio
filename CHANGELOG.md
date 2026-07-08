@@ -1,7 +1,4 @@
 # Changelog
 
-## v0.4.0
-
-- Publishing Engine milestone completed.
-- Build pipeline integrated.
-- Establish publication-quality export baseline.
+## v0.5.0-alpha1
+- Automation foundation.

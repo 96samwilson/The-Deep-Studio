@@ -1,57 +1,27 @@
 # Automation
 
-The main command is now:
+The automation system now supports roadmap-derived commit context.
 
-```powershell
-python tools/run_commit.py <commit_id> [options]
-```
+You no longer need every future commit listed in `commit_plan.yml`.
 
-## Common workflow
-
-Preview:
+## Preview
 
 ```powershell
 python tools/run_commit.py 0054 --preview
 ```
 
-Generate:
+## Generate
 
 ```powershell
 python tools/run_commit.py 0054 --generate
 ```
 
-Apply manifest:
+If `0054` is not listed in `commit_plan.yml`, the tool derives its context from the frozen roadmap.
 
-```powershell
-python tools/run_commit.py 0054 --apply-manifest generated/commit-0054/manifest.json
-```
+## Frozen roadmap
 
-Build:
-
-```powershell
-python tools/run_commit.py 0054 --build
-```
-
-Quality gate:
-
-```powershell
-python tools/run_commit.py 0054 --quality-gate
-```
-
-Commit:
-
-```powershell
-python tools/run_commit.py 0054 --commit --message "0054: Continue Volume I manuscript"
-```
-
-Commit, tag and push:
-
-```powershell
-python tools/run_commit.py 0054 --commit --message "0054: Continue Volume I manuscript" --tag v0.5.2 --push
-```
-
-## Principle
-
-Automation removes repetition.
-
-It does not remove editorial judgement.
+- 0001–0053 — Foundation & Automation
+- 0054–0090 — Volume I — The Listener
+- 0091–0130 — Volume II — The Instruments
+- 0131–0170 — Volume III — Composition
+- 0171–0195 — Volume IV — The Workbook

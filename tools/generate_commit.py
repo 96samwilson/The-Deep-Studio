@@ -1,23 +1,13 @@
 """
 The Deep Studio — Commit Generator
 
+This version first checks commit_plan.yml. If the requested commit is not
+listed there, it derives context from the frozen roadmap in tools/roadmap.py.
+
 Usage:
 
-    python tools/generate_commit.py 0042 --dry-run
-    python tools/generate_commit.py 0042
-
-This version:
-- Reads commit_plan.yml
-- Finds the requested commit
-- Builds a prompt
-- Calls the OpenAI API through tools/openai_client.py
-- Writes the raw generation to generated/commit-XXXX/raw-output.md
-
-Later commits will:
-- Request structured JSON file output
-- Write files directly into the repository
-- Offer interactive review
-- Run git add / commit / push
+    python tools/generate_commit.py 0054 --dry-run
+    python tools/generate_commit.py 0054
 """
 
 from __future__ import annotations
@@ -25,9 +15,9 @@ from __future__ import annotations
 import argparse
 from pathlib import Path
 import re
-import sys
 
 from openai_client import generate_text
+from roadmap import get_commit_context, commit_block_as_text
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -37,20 +27,23 @@ GENERATED = ROOT / "generated"
 
 def load_plan_text() -> str:
     if not PLAN.exists():
-        raise FileNotFoundError("commit_plan.yml not found in repository root.")
+        return ""
     return PLAN.read_text(encoding="utf-8")
 
 
 def find_commit_block(plan_text: str, commit_id: str) -> str:
     """
-    Minimal YAML-ish extraction for current commit_plan.yml format.
-    This avoids requiring PyYAML at this stage.
+    Look for an explicit commit entry in commit_plan.yml.
+    If missing, derive the context from the frozen roadmap.
     """
-    pattern = rf"(?ms)^\s*-\s+id:\s*[\"']?{re.escape(commit_id)}[\"']?.*?(?=^\s*-\s+id:|\Z)"
-    match = re.search(pattern, plan_text)
-    if not match:
-        raise ValueError(f"Commit {commit_id} was not found in commit_plan.yml.")
-    return match.group(0).strip()
+    if plan_text:
+        pattern = rf"(?ms)^\s*-\s+id:\s*[\"']?{re.escape(commit_id)}[\"']?.*?(?=^\s*-\s+id:|\Z)"
+        match = re.search(pattern, plan_text)
+        if match:
+            return match.group(0).strip()
+
+    context = get_commit_context(commit_id)
+    return commit_block_as_text(context)
 
 
 def build_prompt(commit_id: str, commit_block: str) -> str:
@@ -59,7 +52,7 @@ You are generating files for The Deep Studio repository.
 
 Commit ID: {commit_id}
 
-Commit plan entry:
+Commit context:
 
 {commit_block}
 
@@ -71,12 +64,13 @@ Preserve the project's editorial standards:
 - SVG diagrams when requested
 - Commit metadata
 - No filler
+- Stay within the frozen roadmap through Commit 0195
 """.strip()
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Generate a Deep Studio commit using the OpenAI API.")
-    parser.add_argument("commit_id", help="Commit ID, e.g. 0042")
+    parser.add_argument("commit_id", help="Commit ID, e.g. 0054")
     parser.add_argument("--dry-run", action="store_true", help="Do not call the API; write the prompt preview instead.")
     args = parser.parse_args()
 

@@ -1,37 +1,14 @@
-# Commit 0053 — Consolidated Automation Runner
+# Roadmap-Derived Commit Context
 
-## Commit message
+This package updates the automation tooling so future commit context can be derived from the frozen roadmap.
 
-```text
-0053: Add consolidated automation runner
-```
+## Files
 
-## Files Added or Updated
-
-- `tools/run_commit.py`
-- `docs/DAILY_AUTOMATION_WORKFLOW.md`
-- `docs/VERSION_0_5_1_AUTOMATION_SUMMARY.md`
+- `tools/roadmap.py`
+- `tools/generate_commit.py`
+- `docs/ROADMAP_DERIVED_CONTEXT.md`
 - `README_AUTOMATION.md`
-- `CHANGELOG.md`
 
 ## Purpose
 
-This commit consolidates the automation tools into a single daily-use command:
-
-```powershell
-python tools/run_commit.py <commit_id> [options]
-```
-
-It supports:
-
-- preview;
-- generation;
-- manifest application;
-- build;
-- quality gate;
-- release report;
-- guarded Git workflow.
-
-## Next Commit
-
-Commit 0054 — Resume Volume I manuscript development.
+Avoid manually maintaining hundreds of entries in `commit_plan.yml`.
